@@ -31,7 +31,9 @@
 ### Plan of Action for Third Month till 30 August 2020
 
 •	Finalization of idea
+
 •	Collect Mockup n everything
+
 •	Presentation for this project
 
 If any changes need then make PR..
