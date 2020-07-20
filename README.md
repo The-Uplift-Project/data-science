@@ -11,7 +11,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 * [Ujjwal](https://github.com/BellatrixLestrangee)
 * [Mohit](https://github.com/radadiyamohit81)
 
-## Downloading Data for the Project from Kaggle:
+## Downloading Data for the Project from Kaggle
 Download the dataset from [here](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 
 ## 3 Month Plan for Data Science Skill Enhancement:
