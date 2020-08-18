@@ -24,6 +24,9 @@ Learn the basics of github to share your contribution here.
 - Install git and clone this repository
 - Go to our team branch by typing ```git checkout Team-DSC07```
 - Make your changes locally in the relevant folder
-- commit and push changes to your fork of this repository
+- commit and push changes to your fork of this repository by
+    ```git add .```
+    ```git commit -m "commit message"```
+    ```git push -u origin Team-DSC07```
 - Create a pull request from <username>/<teamname> to The-Uplift-Project/<teamname>
 
